@@ -5,7 +5,6 @@ Just a simple Nestjs Project structure, this will serve as a starting structure 
 
 ## Overview
 
-```json
       
       src/
       ├── app.module.ts             # Root module
@@ -48,7 +47,7 @@ Just a simple Nestjs Project structure, this will serve as a starting structure 
       └── interfaces/               # Shared TypeScript interfaces
           └── user.interface.ts
 
- ```
+
 
 ## Project setup
 
