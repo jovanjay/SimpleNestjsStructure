@@ -1,7 +1,7 @@
 
 ## Description
 
-Just a simple Nestjs Project structure, this will serve as a starting structure for any Nestjs + Nodejs Projects
+A simple Nestjs Project structure, this will serve as a starting structure for any Nestjs + Nodejs Projects
 
 ## Overview
 
