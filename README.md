@@ -1,7 +1,9 @@
 
 ## Description
 
-A simple Nestjs Project structure, this will serve as a starting structure for any Nestjs + Nodejs Projects
+A simple Nestjs Project structure, this will serve as a starting structure for any Nestjs + Nodejs Projects, this will serve as a starting point to most backend applications. 
+
+Note: each folder will have a .gitignore file as a default so it will not be ignored
 
 ## Overview
 
